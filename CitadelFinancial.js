@@ -1,8 +1,3 @@
-//Changelog from Currency2.1
-    //redefining account initialization to use identical object declarations
-
-//TROUBLESHOOTING
-    //updated default object definitions
 
 const Discord = require('discord.js');
 const {prefix, token} = require('./config.json');
